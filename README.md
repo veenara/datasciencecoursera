@@ -1,2 +1,1 @@
-# datasciencecoursera
-Creating one for the course project
+Hello. This is a simple text file.
